@@ -1,4 +1,4 @@
-# artificial-intelligence system design ideas
+# Artificial-intelligence system design ideas
 
 ## Efficient power consumption design
 
