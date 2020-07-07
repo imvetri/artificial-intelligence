@@ -22,6 +22,6 @@ Computers run program. Program lives and dies by the parent process that spawns 
 
 ### Conclusion
 
-Artificial Neurons are well marketed, not well thought through concept somehow came into trend. It sounds nice but it doesn't fit very well. Neuron is a biological part of a living organism. If a learning agent is required for a computing device, it should be a part of itself, which is an executable program. Neurons do not learn, Its DNA that learns. Program is a DNA of a computing machine, NOT NEURON.
+Artificial Neurons are well marketed, not well thought through concept somehow came into trend. It sounds nice but it doesn't fit very well. Neuron is a biological part of a living organism. If a learning agent is required for a computing device, it should be a part of itself, which is an executable program. Neurons do not learn, Its DNA that learns. Program is a DNA of a computing machine, NOT NEURON. Live, Learn, Die. Run, Edit, Kill.
 
 
