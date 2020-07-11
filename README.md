@@ -4,6 +4,7 @@
 
 ## [Non Neuron Learning Machine design ](https://github.com/imvetri/artificial-intelligence/blob/master/No.Neuron.Learning.Machine.md)
 
+## [Self Learning Engine Model ](https://github.com/imvetri/artificial-intelligence/blob/master/Self.learning.engine.model.md.md)
 
 
 
