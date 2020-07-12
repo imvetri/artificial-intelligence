@@ -1,4 +1,4 @@
-# System design ideas for AI 
+# System design - Artificial intelligence
 
 ## [Efficient power consumption design ](https://github.com/imvetri/artificial-intelligence/blob/master/Power.efficient.AI.design.md)
 
