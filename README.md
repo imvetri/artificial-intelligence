@@ -12,6 +12,6 @@ Alternative to mathematical Neuron model.
 
 Core design of self learning system
 
-## [A Connected Model ](https://github.com/imvetri/artificial-intelligence/blob/master/A.Conntected.Model.md)
+## [A Connected Model ](https://github.com/imvetri/artificial-intelligence/blob/master/A.Connected.Model.md)
 
 Architecture that learns, can be applied at any layer of a computing machine.
