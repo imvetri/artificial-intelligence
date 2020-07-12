@@ -23,6 +23,10 @@ This model fires when a computer is turned on.
 - [ ] Computer learning itself. Start with instruction set, knowledge about memory, process management, resource management. Let the model learn about the environment.
 - [ ] The model will find the common facts to optimise the space used to store the knowledge graph.
 
+## System design
+
+![](https://github.com/imvetri/artificial-intelligence/blob/master/A.connected.model.png)
+
 ## Conclusion
 
 This self learning model can be installed at any layer of a computing machine such as bios, kernel, management, IO, interface. Since the effort is the same, its best to stick to lowest level closer to the hardware.
