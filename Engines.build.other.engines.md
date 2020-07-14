@@ -12,7 +12,7 @@ The knowledge graph is made of words. The words form connections and provides me
 
 ### System design
 
-![](https://github.com/imvetri/artificial-intelligence/blob/master/Engines.build.other.engines.png.png)
+![](https://github.com/imvetri/artificial-intelligence/blob/master/Engines.build.other.engines.png)
 
 
 ### Conclusion
