@@ -23,7 +23,7 @@ An AI capable of splitting a musical track into different instruments and vocal 
 
 3. To extract the track, take a roller coaster ride by moving the 2d playhead in 3d plane to catch the instrument. Like you are the orchestrator in a symphony instead of two hands, do with thumb and index. 
 
-![](https://github.com/imvetri/artificial-intelligence/blob/master/Music.track.segmentation.without.AI.png)
+![](https://github.com/imvetri/artificial-intelligence/blob/master/Music.tract.segmentation.without.AI.png)
 
 
 ## Conclusion
