@@ -31,5 +31,5 @@ Example for adjusting hypothesis to get 100% result.
 
 Learning AI is hard because of math. Math is introduced because neural node is made of function. This model proposes such nodes to be made of other tiny nodes and connections to nodes, which is dendrites represent a number and node performs a fundamental mathematical operation.
 
-### Facts
+### Truth
 Human is the artificial intelligence.
