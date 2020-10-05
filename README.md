@@ -29,5 +29,8 @@ Example for adjusting hypothesis to get 100% result.
 
 ### [Mathematical neuron model - Alternative](https://github.com/imvetri/artificial-intelligence/blob/master/Alternative.Neuron.Model.Without.Advanced.Math.md)
 
-Learning AI is hard because of math. Math is introduced because neural node is made of function. This model proposes such nodes to be made of other tiny nodes and connections to nodes, which is dendrites represent a number and node performs a fundamental mathematical operation.
+Learning AI is hard because of math. Math is introduced because neural node is made of function. This model proposes such nodes to be made of other tiny nodes and connections to nodes, which is dendrites represent a number and node performs a  mathematical operation.
 
+### [Self Learning Neuron Model ](https://github.com/imvetri/artificial-intelligence/blob/master/Self.learning.neuron.model.md)
+
+Bare metal experiment and Abstracts out unwanted stuffs.
