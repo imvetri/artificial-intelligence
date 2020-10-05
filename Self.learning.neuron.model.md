@@ -54,6 +54,7 @@ Software alternative ingredient
 
 
 ![](https://github.com/imvetri/artificial-intelligence/blob/master/Self.learning.neuron.model.png)
+![](https://github.com/imvetri/artificial-intelligence/blob/master/Self.learning.neuron.model.low.png)
 
 
 ## Conclusion
