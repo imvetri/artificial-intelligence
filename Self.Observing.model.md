@@ -42,7 +42,7 @@
 
     Wait a minute, brain isn't the only fluid that can change shape based on surroundings. - Water is also a fluid - hahaha. Look at dancing droplets!
 
-    ![](https://github.com/imvetri/artificial-intelligence/blob/master/dancinf.droplets.gif)
+![](https://github.com/imvetri/artificial-intelligence/blob/master/dancinf.droplets.gif)
 
     Fine- 
 
