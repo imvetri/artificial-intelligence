@@ -34,3 +34,10 @@ Learning AI is hard because of math. Math is introduced because neural node is m
 ### [Self Learning Neuron Model ](https://github.com/imvetri/artificial-intelligence/blob/master/Self.learning.neuron.model.md)
 
 Bare metal experiment and Abstracts out unwanted stuffs.
+
+
+### [Self.Observing.model.md ](https://github.com/imvetri/artificial-intelligence/blob/master/Self.Observing.model.md)
+
+Brain is a fluid of varying density that can store information about itself and its surroundings. 
+A fluid of varying densities can store information about itself and its surroundings. 
+A fluid can observe itself and its surroundings.
