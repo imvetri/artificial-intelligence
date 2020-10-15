@@ -13,6 +13,6 @@ Hello, Welcome to lab.
 
 #### Status - onHold
 
-Wait for right neuron neuron model.
+Waiting for right neuron neuron model.
 
 
