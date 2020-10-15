@@ -41,3 +41,8 @@ Bare metal experiment and Abstracts out unwanted stuffs.
 Brain is a fluid of varying density that can store information about itself and its surroundings. 
 A fluid of varying densities can store information about itself and its surroundings. 
 A fluid can observe itself and its surroundings.
+
+
+## Motivation
+
+Neural network is a shape changing data structure. Hyped definition such as mathematical model spikes the mind. Do not believe in math model of neuron.
