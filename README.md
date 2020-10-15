@@ -42,6 +42,8 @@ Brain is a fluid of varying density that can store information about itself and 
 A fluid of varying densities can store information about itself and its surroundings. 
 A fluid can observe itself and its surroundings.
 
+## [Lab](https://github.com/imvetri/artificial-intelligence/blob/master/Lab.md)
+
 
 ## Motivation
 
