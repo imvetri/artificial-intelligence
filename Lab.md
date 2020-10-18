@@ -15,8 +15,9 @@ Hello, Welcome to lab.
 
 Waiting for right neuron neuron model.
 
+### Point, fluid.
 
-####:Draft notes 
+#### Draft notes 
 
 Write about fluid.
 
@@ -46,6 +47,7 @@ OBSERVER BECOMES FLUID AND CAN SEE OUTSIDE.
 An observer is fluid.
 An observer can see.
 A fluid can see.
+A fluid can take shape.
 A point can see.
 
 Write about seeing.
@@ -86,6 +88,7 @@ Direction, distance of other point's seeing.
 
 Seeing is interconnected.
 All points in a fluid are connected.
+
 
 
 Draft video
