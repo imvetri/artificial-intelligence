@@ -8,7 +8,7 @@ Hello, Welcome to lab.
 
 1. Build a neuron.
 2. Build an eye.
-3. Put a mirror around the eye.
+3. Put a spherical mirror around the eye.
 
 
 #### Status - onHold
@@ -94,4 +94,12 @@ All points in a fluid are connected.
 Draft video
 
 Record a video about points for above rules.
+
+
+### Neural fluid.
+
+1. Build a neural fluid
+
+
+
 
