@@ -98,6 +98,8 @@ Record a video about points for above rules.
 
 ### Neural fluid.
 
+A neural fluid can see light, sense its surroundings, creates a virtual world within in to understand the outside world,
+
 1. Build a neural fluid
 
 
