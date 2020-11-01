@@ -103,5 +103,33 @@ A neural fluid can see light, sense its surroundings, creates a virtual world wi
 1. Build a neural fluid
 
 
+### Group of spheres - neural fluid I was looking for.
+
+Tada. Notes to self.
+
+Alternative experiment to do in computer.
+
+Make each sphere with a neuron that learns about space, time (given n cordinates of movement, how many cpu cycles it took to move). 
 
 
+
+Next make each sphere made of optical material that can see outside from within. 
+
+Wait until the sphere learns a visual model of its surroundings.
+
+
+Now the sphere can predict movement of other spheres in motion. It can focus on a single particular sphere.
+
+
+Let it find a way to communicate and then human snoop in.
+
+
+The sphere learns about itself from other sphere. (A group of spheres atached to them self and mimicing a sea wave) 
+
+
+
+Overall a good candidate to be in here 
+
+
+Reference - 
+https://news.ycombinator.com/item?id=24952261#24955604
