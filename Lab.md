@@ -133,3 +133,8 @@ Overall a good candidate to be in here
 
 Reference - 
 https://news.ycombinator.com/item?id=24952261#24955604
+
+
+### FAQs
+1. What's the frequency of the sun
+2. What's a dimension - dimension is perpendicular to current dimension. Haha 
