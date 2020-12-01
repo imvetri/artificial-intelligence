@@ -35,6 +35,10 @@ Learning AI is hard because of math. Math is introduced because neural node is m
 
 Bare metal experiment and Abstracts out unwanted stuffs.
 
+### [Protein folding ](https://github.com/imvetri/artificial-intelligence/blob/master/Protein.folding.md)
+
+Light and Mechanical movement of protein
+
 
 ### [Self Observing Model ](https://github.com/imvetri/artificial-intelligence/blob/master/Self.Observing.model.md)
 
