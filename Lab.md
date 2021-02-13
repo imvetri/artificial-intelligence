@@ -19,27 +19,33 @@ Waiting for right neuron neuron model.
 
 #### Draft notes 
 
-Write about fluid.
+<b>Write about fluid.</b>
 
 Fluid is made of points. 
 
 
-Write about point.
+<b>Write about point.</b>
 
 Point has position relative to another point.
 Point has same property as a fluid.
 Fluid is a point for observer from far.
 
-Write about observer.
+<br/>
+<br/>
+<b>Write about observer.</b>
 Observer can see a point.
 A fluid becomes a point to an observer from far.
 Observer can see light.
 
-
-Write about light.
+<br/>
+<br/>
+<br/>
+<b>Write about light.</b>
 A point is light seen by observer.
 
-
+<br/>
+<br/>
+<br/>
 Fluid is made of points.
 Fluid is a point seen from far.
 Points on fluid are seen by observer from close.
@@ -50,7 +56,7 @@ A fluid can see.
 A fluid can take shape.
 A point can see.
 
-Write about seeing.
+<b>Write about seeing.</b>
 
 Seeing is observing.
 
@@ -58,32 +64,32 @@ Seeing properties of a point change over properties of a point and it's surround
 
 A point can see it's surroundings.
 
-Write about properties.
-Write about seeing change.
+<b>Write about properties.</b>
+<b>Write about seeing change.</b>
 
 A point can see in one direction.
 A point can see short and long direction.
 Point can see more farther distance.
 Point can see less closer distance.
 
-Write about zero distance. Something flips.
+<b>Write about zero distance.</b> Something flips.
 
 Point observes at zero distance.
 
 
-Write difference between seeing and observing.
+<b>Write difference between seeing and observing.</b>
 Seeing is other points.
 Observing seeing itself.
 
-Write about properties.
+<b>Write about properties.</b>
 Direction of seeing.
 Distance of seeing.
 
-Write about what happens when seeing.
+<b>Write about what happens when seeing.</b>
 
 A point changes when it sees.
 
-Write about what changes when it sees.
+<b>Write about what changes when it sees.</b>
 Direction, distance of other point's seeing.
 
 Seeing is interconnected.
