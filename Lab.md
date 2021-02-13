@@ -97,7 +97,7 @@ All points in a fluid are connected.
 
 <b>Write about math</b>
 Addition makes sense, but subtraction doesn't here is why. Additon is simple but subtraction needs overthinking and it is created by someone who felt competitive against someone who found addition. Instead of solving the original problem, they deviated giving rise to delusional tree of mathematics.
-
+Mathematics is a delluded mind's escape from simple answers because if it looks complicated it gains attention and a mind which gets carried away falls prey for that smart mind.
 Draft video
 
 Record a video about points for above rules.
