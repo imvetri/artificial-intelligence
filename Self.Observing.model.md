@@ -61,6 +61,10 @@
 ![](https://github.com/imvetri/artificial-intelligence/blob/master/Self.Observing.model.png)
 
 
+## Experiment
+
+What happens when two droplets kept next to each other in outer space. They will join together, which they shouldn't. If they join, the force of attraction is their own gravity. This experiement is to rule out the surface tension to be the cause of attraction.
+
 ## Conclusion
 
 Zero interest in AI NN based on mathematical model
