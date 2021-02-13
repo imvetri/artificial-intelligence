@@ -95,7 +95,8 @@ Direction, distance of other point's seeing.
 Seeing is interconnected.
 All points in a fluid are connected.
 
-
+<b>Write about math</b>
+Addition makes sense, but subtraction doesn't here is why. Additon is simple but subtraction needs overthinking and it is created by someone who felt competitive against someone who found addition. Instead of solving the original problem, they deviated giving rise to delusional tree of mathematics.
 
 Draft video
 
