@@ -49,7 +49,7 @@ A fluid can observe itself and its surroundings.
 ## [Lab](https://github.com/imvetri/artificial-intelligence/blob/master/Lab.md)
 
 
-## [The System](https://github.com/imvetri/artificial-intelligence/blob/master/The System.md)
+## [The System](https://github.com/imvetri/artificial-intelligence/blob/master/The%20System.md)
 
 
 ## Motivation
