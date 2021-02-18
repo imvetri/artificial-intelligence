@@ -49,6 +49,9 @@ A fluid can observe itself and its surroundings.
 ## [Lab](https://github.com/imvetri/artificial-intelligence/blob/master/Lab.md)
 
 
+## [The System](https://github.com/imvetri/artificial-intelligence/blob/master/The System.md)
+
+
 ## Motivation
 
 Neural network is a shape changing data structure. Hyped definition such as mathematical model spikes the mind. Do not believe in math model of neuron.
