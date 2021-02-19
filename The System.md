@@ -80,7 +80,8 @@ that sees the result.
 
 
 
-
+# Conclusion
+Rewrite similar to http://www.cs4fn.org/fiction/thequeenofthenorth.php
 
 
 
