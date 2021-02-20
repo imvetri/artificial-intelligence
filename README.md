@@ -1,7 +1,5 @@
 # System design - Artificial intelligence 
 
-All of these are insincere ideas.
-
 ### [Efficient power consumption design ](https://github.com/imvetri/artificial-intelligence/blob/master/Power.efficient.AI.design.md)
 
 Details about reusing computing resource.
