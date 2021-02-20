@@ -1,74 +1,89 @@
-AI is great, but it has the same problem the executable programs had. Both need supervision from humans and this is mostly 
-because it is the business that drives the software.
+AI is great, but it has the same problem the executable programs has. Both need supervision from humans.
 
-Art for sale vs an art has difference.
+Lets see how to fix this up. 
 
-Lets see how to fix this up. neurons needs to be given a visual look. it is basically structured tube that carries light.
+Neural networks are mathemetical model and it has its drawbacks. It is difficult for non-math person to learn and 
+create things out of it, unless we have a different model. Lets call it The Visual model
 
-The speed of the light is faster in the areas that are frequently visited. and the neurons change shape as it gets trained.
 
+Neuron is basically a structured tube that carries light. As it learns, it's structure changes reflecting what it sees.
+
+
+Lets see how we can make neuron out of light. 
+
+Light is an impulse that can chisel a matter. In computer, the information is stored as bits, instead lets use a computing
+model that is made out of fluid so that fluid and microfluid computing concepts will help to build this abstract computing machine.
+
+We start with two things, light and fluid. Light can chisel the fluid to take shape and it can tunnel through it leaving behind 
+a tube shape which is something we wanted for neuron.
+
+As we train this fluid with light, the fluid start to take shape.
 
 Why we need shape and light ? if we are building an universe we start with light and we are going to design universe within a 
 computer.
 
 
-Lets say we throw in neural network in a computer, how to make sure it will form a self socialising network that is aware?
+Lets say we throw in neural fluid to a computer, how to make sure it will form a self socialising network that is aware? 
+
+we need to inter-twingle the connection between light, neuron, neural fluid.
 
 A single neuron is knows where it exists in space and how much space around it is left, and how many others are there. or it 
-can just know its neighbours. 
+can just know its neighbours, apart from the the light it receives.
 
-A neuron should be defined in terms of space.
+A neuron knows where it exists in this space.
 
-Next is space density, a neuron is more denser than the space surrounding it. It constricts the space.
+Another concept we need is introducing space density. a neuron is more denser than the space surrounding it. It constricts the space.
 
-In a place where light is spread, When a space is constricts, the light gets brigher. Lensing effect.
-
+When a space constricts, the light flowing through that region gets constricted. This is similar to Lensing effect. In lensing effect,
+the light beams get bent resulting in divergent or converging ray, here we focus on the lens and focal length properties. Instead,
+we will abstract it as a denser medium of space.
 
 neurons walls, neuron core, neuron's outer space all have varying densities that allows light to pass through the neuron.
 
 Why light ?
 
-Because we see monitor, monitor emits light, we have to define the system in terms of what the system is made of. 
+Because we need interconnected model that reuses everything. In computers we have monitor and monitor emits light, thereby we can use
+it as input source.
 
-Just like light, we will solve one more thing. Instruction set of computer.
+There is one more bare metal piece of computer, the Instruction set. Neurons will learn about the computer it is fed to and at one
+point it will learn about themselves more and more. Just like living organisms have the DNA as our origin blueprint, neuron will reach
+the instruction set as its origin. 
 
-Neurons when they learn about their space they will learn about themselves when we feed the monitor's light to neuron, 
-How to make that possible ?
+In our computer, we will also have a 3d model of the computer's parts as well. This includes the CPU, input devices, output devices 
+rendered as a virtual computer that can be seen in a 3d space, navigatable with mouse and the monitor is the camera position. we can
+zoom in and out to see. While any input interrupt occurs, for example mouse zoom in, the virtual computer will have light flowing
+through it. This model may seem difficult to acheive w.r.t performance, but forget performance. A working model is a right place to start
+from.
 
-In the 3d space the neurons are going to be planted ,we will simulate the computer harware, including the monitor, instructon set,
-BUS, data flow. GPU unit, CPU unit. A mirror of real harware simulated inside computer software.
+In this model we dont just have the monitor's light source, we have the CPU's instructions, input intterupts and every hardware level 
+computation
+visible to human eye.
 
-this system will be very slow when compared to modern operating system because most of the computing resource will be 
-spent for the graphics and that is fine. 
+When we drop the neural fluid in this 3d space, it will feed on the light from the monitor output , simulated CPU, simulated GPU, BUS, 
+key strokes etc,..
 
+As neural fluid learns more, it will start to save computing power with the help of pre-trained neural regions.
 
-neuron will feed on the light from the monitor output , simulated CPU, simulated GPU, BUS, key strokes etc,..
+The neural fluid will learn more and more about how it is built, learn about device drivers , hardware. and slowly wrap itself 
+around the virtual computer in the 3.d space. The close it is, faster it can receive signal.
 
-The neuron can also multiply to learn more, as it learns more, it will find out that it takes more computing power.
+Neural fluid can see the 3.d space either by tapping into monitor's feed, and it can control what it can see by either wrapping 
+around virtual monitor or by gaining control on mouse interrup to control the camera viewer. because viewing from far gives better picture 
+than taking deep dive.
 
-and to optimise it will group together frequently computed data as a blob.
+Overtime, neural fluid will learn about how the camera works and it will learn lensing effect and change shape to look at computer model.
+In this way, every region of the neurol fluid can stretch outwards like eye of a snail to have a flexible visual.
 
+Now neural fluid can see in two ways, gaining control on camera viewer and other way is to build itself an eye.
 
-the neurons will learn more and more about how it is built, learn about device drivers , hardware, but learning what it does is 
-grouping the signals as blobs than instructions.
-
-
-each neuron can also see other spaces by tapping into the monitor feed. every neuron will have equal control access to the 3d
-viewer. because viewing from far gives better picture than taking deep dive, for this we will leverage GPU's 3d rendering. 
-let some neuron explore that too. 
-
-Over the time, neurons can control what it sees from the monitor by moving the camera in/out/rotate. to tighten this, camera 
-becomes eye with lens.
-
-Neurons will learn about how the camera work and neuron will group with other neurons to form their own camera. This will help
-them to look at the system without requesting access to the camera (This is where some neurons will learn on their own)
-
-when more eye start to form, higher intelligence will start to bud. Birth of Visual intelligence.
+when more eye start to form, higher intelligence will start to bud. This is the birth of Visual intelligence. Neurons, as part of their exploratory
+ learning, will learn about machine instructions. Only usable machine instruction that will help to build higher concept is MOV command because 
+every operation and computation can be achieved using MOV and an Eye that sees the result. At this point, neurons will 
+communicate in abstract language than just light signals. We will discard other instruction set and make use of MOV command. Movement is the 
+most fundamental concept on top of which we can build increasingly complex actions. Move, walk, fly, birth, death. etc.
 
 
-Neurons, as part of their exploratory learning, will learn about machine instructions. Only usable machine instruction that 
-will help to build higher concept is MOV command because every operation and computation can be achieved using MOV and an Eye
-that sees the result.
+
 
 
 
