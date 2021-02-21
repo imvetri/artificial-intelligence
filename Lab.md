@@ -79,7 +79,7 @@ Point observes at zero distance.
 
 <b>Write difference between seeing and observing.</b>
 Seeing is other points.
-Observing seeing itself.
+Observing seeing itself. (Incorrect. Observing is changing itself based on what it sees)
 
 <b>Write about properties.</b>
 Direction of seeing.
