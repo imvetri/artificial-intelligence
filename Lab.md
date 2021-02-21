@@ -145,4 +145,6 @@ https://news.ycombinator.com/item?id=24952261#24955604
 ### FAQs
 1. What's the frequency of the sun
 2. What's a dimension - dimension is perpendicular to current dimension. Haha 
-3. What's observing? - Eye watching a fluid flow.
+3. What's observing? - Eye watching a fluid flow followed by change in structure of its neuron.
+4. What happens when neurons are exposed to light than just eye - Neurons are more sensitive to light than eye.
+
