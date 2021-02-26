@@ -148,3 +148,6 @@ https://news.ycombinator.com/item?id=24952261#24955604
 3. What's observing? - Eye watching a fluid flow followed by change in structure of its neuron.
 4. What happens when neurons are exposed to light than just eye - Neurons are more sensitive to light than eye.
 
+
+### Inspiration
+https://www.youtube.com/watch?v=T3-3Y8gDbPA
