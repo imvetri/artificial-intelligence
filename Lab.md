@@ -151,3 +151,6 @@ https://news.ycombinator.com/item?id=24952261#24955604
 
 ### Inspiration
 https://www.youtube.com/watch?v=T3-3Y8gDbPA
+
+### pieces
+Each neuron runs as OS process.
