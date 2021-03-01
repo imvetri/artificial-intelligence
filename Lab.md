@@ -150,7 +150,8 @@ https://news.ycombinator.com/item?id=24952261#24955604
 
 
 ### Inspiration
-https://www.youtube.com/watch?v=T3-3Y8gDbPA
+https://www.youtube.com/watch?v=T3-3Y8gDbPA - a logic gates based computing built using fluid
+https://www.reddit.com/r/compsci/comments/lt0bat/a_computer_architecture_built_in_logicly/ - a logic gates simulator. build the neural OS inside a simulator and pour neural fluid around it. *Fun*
 
 ### pieces
 Each neuron runs as OS process.
