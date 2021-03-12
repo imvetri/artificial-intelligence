@@ -1,5 +1,8 @@
 # The simulator program
 
+
+## Story
+
 AI is great, but it has the same problem the executable programs has. Both need supervision from humans.
 
 Lets see how to fix this up. 
@@ -83,3 +86,25 @@ when more eye start to form, higher intelligence will start to bud. This is the 
 every operation and computation can be achieved using MOV and an Eye that sees the result. At this point, neurons will 
 communicate in abstract language than just light signals. We will discard other instruction set and make use of MOV command. Movement is the 
 most fundamental concept on top of which we can build increasingly complex actions. Move, walk, fly, birth, death. etc.
+
+## Truths
+
+Each star is a cell body. Boy calm down, during your school days you called each star is an atom and before that you called a star a star.
+
+That is true, the deeper the knowledge you seek, the deeper the reality gets.
+
+Voice: But there should be the opposite side as well, the comparision.
+
+That is also true. Star is similair to a neuron and a neuron is similar to a star. Damn, human is similar to a neuron as well.
+
+Voice: Then why does they sound similar?
+
+Everything is connected ?
+
+Voice: That's right.
+
+Then I don't have to learn machine learnings?
+
+Voice: That's is right. Be patient and wait.
+
+### Date : 12- March - 2021
