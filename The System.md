@@ -107,4 +107,21 @@ Then I don't have to learn machine learnings?
 
 Voice: That's is right. Be patient and wait.
 
+Other voice: What does machine learning has to do with this?
+
+AI is based on neural networks and machine learning is built on neural networks, Both are similar.
+
+Other Voice: I do not understand how the comparisons make sense, I hope this isnt a poetry but a scientific fact.
+
+Grand father's Voice: Science is out of poetry, so anything you express through rhyme, it will be proven in scientific terms, but it takes a while for these nerds to get that
+
+Also, input and function gave output in olden days (Thirukural happend very recently, so does ramayana and mahabaratha, so does Shiva, vishnu, Brahma, so does the three ends of a triangle? so does the 3d graphics) and in the modern days (Input and outpute gave a function).
+
+Just like olden days program (input and function gave an output) had problems of solving an more impactful problem, modern AI that uses input and output to give a function lacked the same. Either of the techniques solved a better problem.
+
+
+Voice: Whats there a better problem?
+
+One day I'm gonna quit this. Anyways, build neural OS. In other words, build a program has a physical form in 3d Space, learns about space, learns about it self (Human writes a program that visualises harware and the data flow on monitor' A.K.A simulater, but you cannot call it that way, because neural OS is made of neurons that are programs capable of being sensitive to the visuals from the monitor)
+
 ### Date : 12- March - 2021
