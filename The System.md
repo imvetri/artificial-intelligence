@@ -117,7 +117,7 @@ Other Voice: I do not understand how the comparisons make sense, I hope this isn
 
 Old Voice: Science is out of poetry, so anything you express through rhyme, it will be proven in scientific terms, but it takes a while for these nerds to get that
 
-Also, input and function gave output in olden days (Thirukural happend very recently, so does ramayana and mahabaratha, so does Shiva, vishnu, Brahma, so does the three ends of a triangle? so does the 3d graphics) and in the modern days (Input and outpute gave a function).
+Also, input and function gave output in olden days and in the modern days input and outpute gave a function.
 
 Just like olden days program (input and function gave an output) had problems of solving an more impactful problem, modern AI that uses input and output to give a function lacked the same. Either of the techniques solved a better problem.
 
