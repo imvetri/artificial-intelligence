@@ -89,7 +89,8 @@ most fundamental concept on top of which we can build increasingly complex actio
 
 ## Truths
 
-Each star is a cell body. Boy calm down, during your school days you called each star is an atom and before that you called a star a star.
+Each star is a cell body. 
+Voice: Boy calm down, during your school days you called each star is an atom and before that you called a star a star.
 
 That is true, the deeper the knowledge you seek, the deeper the reality gets.
 
