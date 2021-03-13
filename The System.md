@@ -119,11 +119,11 @@ Old Voice: Science is out of poetry, so anything you express through rhyme, it w
 
 Also, input and function gave output in olden days and in the modern days input and outpute gave a function.
 
-Just like olden days program (input and function gave an output) had problems of solving an more impactful problem, modern AI that uses input and output to give a function lacked the same. Either of the techniques solved a better problem.
+In olden days number of meaningful problems to be solved were very less and the same thing is circling for the AIs. Nether of the techniques solved a better problem.
 
 
 Voice: Whats there a better problem?
 
-One day I'm gonna quit this. Anyways, build neural OS. In other words, build a program has a physical form in 3d Space, learns about space, learns about it self (Human writes a program that visualises harware and the data flow on monitor' A.K.A simulater, but you cannot call it that way, because neural OS is made of neurons that are programs capable of being sensitive to the visuals from the monitor)
+Build neural OS. In other words, build a program has a physical form in 3d Space, learns about space, learns about it self (Human writes a program that visualises harware and the data flow on monitor' A.K.A simulater, but you cannot call it that way, neural OS is made of neurons that are programs capable of being sensitive to the visuals from the monitor)
 
 ### Date : 12- March - 2021
