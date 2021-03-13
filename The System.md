@@ -115,7 +115,7 @@ AI is based on neural networks and machine learning is built on neural networks,
 
 Other Voice: I do not understand how the comparisons make sense, I hope this isnt a poetry but a scientific fact.
 
-Grand father's Voice: Science is out of poetry, so anything you express through rhyme, it will be proven in scientific terms, but it takes a while for these nerds to get that
+Old Voice: Science is out of poetry, so anything you express through rhyme, it will be proven in scientific terms, but it takes a while for these nerds to get that
 
 Also, input and function gave output in olden days (Thirukural happend very recently, so does ramayana and mahabaratha, so does Shiva, vishnu, Brahma, so does the three ends of a triangle? so does the 3d graphics) and in the modern days (Input and outpute gave a function).
 
