@@ -33,6 +33,6 @@ This uses the knowledge graph and interfaces with other systems.
 
 ## Conclusion
 
-The model should fire itself up.
+The model should fire itself up. And the system questions about the OS, interfaces it runs on and be able to convert the facts and actions to commands, and commands to programs
 
 
