@@ -159,3 +159,4 @@ Start with non von neumann
 
 ### pieces
 Each neuron runs as OS process.
+Put neurons to the gameplay characters head, as the player controls a character the neural fluid models itself.
