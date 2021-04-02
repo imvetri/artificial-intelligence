@@ -147,6 +147,12 @@ https://news.ycombinator.com/item?id=24952261#24955604
 2. What's a dimension - dimension is perpendicular to current dimension. Haha 
 3. What's observing? - Eye watching a fluid flow followed by change in structure of its neuron.
 4. What happens when neurons are exposed to light than just eye - Neurons are more sensitive to light than eye.
+5. What's a fire 🔥 and water 💦 ? Fire flows outward and water flows inward. Fire is a fluid. Light flows outward.huh. 
+6. Fire flows outward and matter flows inward. E=mc^2 c is not the speed of light, it's the speed of space expansion.
+7. There is a mass in an empty space. No, there is a mass and only space is the mass. When the space is pulled outward, what happens? Mass gets converted to energy and space is expanded. What happens when this space is shrunk? The energy gets converted to mass. What about the light that passed? That's why c is speed of space.
+8. When there is just a mass in the beginning, then how or what expanded it ? 
+9. When Space expands it emits light and when space compresses it sucks light to form matter. 
+10.What's connection between space and light? C is speed of space expansion.
 
 
 ### Inspiration
@@ -159,4 +165,5 @@ Start with non von neumann
 
 ### pieces
 Each neuron runs as OS process.
+
 Put neurons to the gameplay characters head, as the player controls a character the neural fluid models itself.
