@@ -66,3 +66,5 @@ and what about
 ```Output + function = input``` - This is learning for past. Seek the origin. When networked ML/AI agents start in this direction, hope something amazing happens.
 
 
+## todo 
+https://github.com/IntelAI/models/tree/master/benchmarks/image_recognition/tensorflow/densenet169 Try to see what's inside the pb file. I'm giving up trying to read that file's content. Tried an online tool called netron but that's giving me all the functions used against an input! I need to see the graph nodes and edges not math !
