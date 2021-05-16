@@ -59,10 +59,12 @@ Neural network is a shape changing data structure. Hyped definition such as math
 ## Conclusion
 This is an attempt to design a self learning system and it got deviated into computer science concept such as self modifying algorithm and self learning neural network. Without stating how a self learning algorithm should work it is not wise to get into implementation. I concluded when I was able to define both modern and conventional computation as follows.
 
-```Input + function = output``` - This is a program
-```Input + output = function``` - This is learning for future.
+```Input + function = output``` - This is called a program.
 
-and what about 
+```Input + output = function``` - This is called ML/AI. 
+
+and what about
+
 ```Output + function = input``` - This is learning for past. Seek the origin. When networked ML/AI agents start in this direction, hope something amazing happens.
 
 
