@@ -71,3 +71,5 @@ and what about
 ## todo 
 https://github.com/IntelAI/models/tree/master/benchmarks/image_recognition/tensorflow/densenet169 Try to see what's inside the pb file. I'm giving up trying to read that file's content. Tried an online tool called netron but that's giving me all the functions used against an input! I need to see the graph nodes and edges not math ! If it really works, next step is to build a visualiser.
 Forget about that, try building this https://www.shutterstock.com/video/clip-1069343866-vertical-format--futuristic-digitally-generated-motion, and call it kernel vision. I wish someone built a vision program that can question and enquire what it sees.
+
+Wonder why not the neural networks look like this https://www.shutterstock.com/video/clip-1067787113-vertical-display-format-futuristic-virtual-holographic-head
