@@ -167,3 +167,10 @@ Start with non von neumann
 Each neuron runs as OS process.
 
 Put neurons to the gameplay characters head, as the player controls a character the neural fluid models itself.
+
+
+## Problem
+Yay found a new problem statement. AI in other words - Given a set of input and output, figure out a system that will build the function. (Since I do not know much AI and already made a simple statement (here)[https://github.com/imvetri/artificial-intelligence/#conclusion] let me see if I can come up with a design that can do it. One more time, Given inputs and outputs, generate a system that will form the function, something that is fluidy. 
+
+### Step one
+Given a set of points, find equation for it, Googling resulted here https://math.stackexchange.com/questions/2183356/finding-equation-from-a-set-of-points. wait, rather than trying to find the equation how about plotting the points based on the dimension and use the neural vision to guess whether the next set of input might fall in the graph plotted region or not. Haha. Its funny, because we can use the image classifier on top plotted points. Anyways, there was this idea I got from ui-editor. It is basically stitching every known thing in the Web and DOM API together and solving, How to stitch all the known AI systems together and see what happens ? How about stop talking and show some code. That's the point, AI ecosystem is vast and I question why there isn't any popular tool like (ML Agents in unity)[https://www.youtube.com/watch?v=2X5m_nDBvS4&t=515s] . Yeah, I thought of creating a neuron as an agent hahaha. that's funny and trippy. That's a good sign. Funny and trippy is a recursion, recursion is a good sign for computer but not for human head. Hahaha that's funny because human head is going to be outside the unity and inside the unity. Yeah, it all boils around the samething. A neuron that can create other neuron that can occupy 3d space and exist as a code (as a safegaurd so that in future If they evolve so much, they will find only about themself and not get lost, another recursion.)
