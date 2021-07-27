@@ -51,4 +51,5 @@ A fluid can observe itself and its surroundings.
 
 ## [The Design](https://github.com/imvetri/artificial-intelligence/blob/master/The%20System.md)
 
-
+## [The Circuit](https://github.com/imvetri/artificial-intelligence/blob/master/The%20Circuit.md)
+Visual information to challenge github copilot.
