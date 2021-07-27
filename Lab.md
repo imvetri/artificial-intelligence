@@ -178,3 +178,24 @@ Given a set of points, find equation for it, Googling resulted here https://math
 
 ### review
 Stop wasting so much computing power https://m.youtube.com/watch?v=OpodKCR6P-M&t=646s. Generate all the possible values for the obstacle distance. Ideal path is the center line. Forget this and stick to front end.
+
+## Motivation
+
+Neural network is a shape changing data structure. Hyped definition such as mathematical model spikes the mind. Do not believe in math model of neuron.
+
+## Conclusion
+This is an attempt to design a self learning system and it got deviated into computer science concept such as self modifying algorithm and self learning neural network. Without stating how a self learning algorithm should work it is not wise to get into implementation. I concluded when I was able to define both modern and conventional computation as follows.
+
+```Input + function = output``` - This is called a program.
+
+```Input + output = function``` - This is called ML/AI. 
+
+and what about
+
+```Output + function = input``` - This is learning for past. Seek the origin. When networked ML/AI agents start in this direction, hope something amazing happens.
+
+
+## todo 
+https://github.com/IntelAI/models/tree/master/benchmarks/image_recognition/tensorflow/densenet169 Try to see what's inside the pb file. I'm giving up trying to read that file's content. Tried an online tool called netron but that's giving me all the functions used against an input! I need to see the graph nodes and edges not math ! If it really works, next step is to build a visualiser.
+
+Wonder why not the neural networks look like this https://www.shutterstock.com/video/clip-1067787113-vertical-display-format-futuristic-virtual-holographic-head
