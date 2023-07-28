@@ -53,3 +53,6 @@ A fluid can observe itself and its surroundings.
 
 ## [The Circuit](https://github.com/imvetri/artificial-intelligence/blob/master/The%20Circuit.md)
 Visual information to challenge github copilot.
+
+
+## [Build a fact tree -Idea submission](https://discuss.tensorflow.org/t/how-to-build-fact-tree-from-a-model/18531)
